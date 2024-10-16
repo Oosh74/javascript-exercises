@@ -41,8 +41,6 @@ const factorial = function (num) {
   return total;
 };
 
-console.log(factorial(5));
-
 // Do not edit below this line
 module.exports = {
   add,
